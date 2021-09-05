@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aardiy
-- 🌱 I’m currently learning R Programming
+- 🌱 Focusing on Data Analytics
 
 <!---
 aardiy/aardiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
